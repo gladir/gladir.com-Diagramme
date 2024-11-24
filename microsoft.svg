@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Généré par Microsoft Visio, SVG Export microsoft.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="22.8858in" height="16.0354in"
+		viewBox="0 0 1647.78 1154.55" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
+	<v:documentProperties v:langID="1036" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#203864;stroke:#c7c8c8;stroke-width:0.25}
+		.st2 {fill:#feffff;font-family:Calibri;font-size:1.16666em;font-weight:bold}
+		.st3 {fill:#4672c4;stroke:#c7c8c8;stroke-width:0.25}
+		.st4 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
+		.st5 {fill:#5b9bd5;stroke:#c7c8c8;stroke-width:0.25}
+		.st6 {marker-end:url(#mrkr4-15);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st7 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st8 {font-size:1em}
+		.st9 {fill:#538135;stroke:#c7c8c8;stroke-width:0.25}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-15" class="st7" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Page 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Lien" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(490.739,-643.465)">
+			<title>Microsoft</title>
+			<desc>Microsoft</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1097.86" width="113.39" height="113.386"/>
+			<path d="M89.42 1041.17 L23.96 1041.17 L-8.77 1097.86 L23.96 1154.55 L89.42 1154.55 L122.16 1097.86 L89.42 1041.17 Z"
+					class="st1"/>
+			<text x="28.48" y="1102.06" class="st2" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft</text>		</g>
+		<a xlink:href="https://www.gladir.com/LEXIQUE/ARTICLES/ibm.htm">
+			<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(170.424,-639.213)">
+				<title>IBM</title>
+				<desc>IBM</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+				<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+						class="st3"/>
+				<text x="31.43" y="1117.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>IBM</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/ALTAIRBASIC/index.htm">
+			<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(434.046,-572.598)">
+				<title>Altair BASIC</title>
+				<desc>Altair BASIC</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="15.72" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Altair BASIC</text>			</g>
+		</a>
+		<g id="shape4-10" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(514.701,-643.465)">
+			<title>Lien dynamique</title>
+			<path d="M0 1154.55 L0 1165.18 L-40.97 1165.18 L-40.97 1198.53" class="st6"/>
+		</g>
+		<g id="shape5-16" v:mID="5" v:groupContext="shape" transform="translate(434.046,-544.252)">
+			<title>Microsoft BASIC</title>
+			<desc>Microsoft BASIC</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+			<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+			<text x="7.01" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft BASIC</text>		</g>
+		<a xlink:href="https://www.gladir.com/CODER/GWBASIC/index.htm">
+			<g id="shape6-19" v:mID="6" v:groupContext="shape" transform="translate(312.157,-540)">
+				<title>GWBASIC</title>
+				<desc>GWBASIC</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="20.25" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>GWBASIC</text>			</g>
+		</a>
+		<g id="shape7-22" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(466.645,-575.433)">
+			<title>Lien dynamique.7</title>
+			<path d="M7.09 1157.39 L7.09 1158.85" class="st6"/>
+		</g>
+		<g id="shape8-27" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(434.046,-559.134)">
+			<title>Lien dynamique.8</title>
+			<path d="M0 1159.51 L-10.63 1159.51 L-10.63 1163.76 L-35.48 1163.76" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/CODER/IBMPERSONALCOMPUTERPASCAL/index.htm">
+			<g id="shape9-32" v:mID="9" v:groupContext="shape" transform="translate(176.094,-739.843)">
+				<title>IBM Personal Computer Pascal</title>
+				<desc>IBM Personal Computer Pascal</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="67.8587" cy="1144.63" width="135.72" height="19.8425"/>
+				<rect x="0" y="1134.71" width="135.717" height="19.8425" class="st5"/>
+				<text x="5.59" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>IBM Personal Computer Pascal</text>			</g>
+		</a>
+		<g id="shape10-35" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(231.4,-718.583)">
+			<title>Lien dynamique.10</title>
+			<path d="M1.62 1154.55 L1.62 1143.92 L12.55 1143.92 L12.55 1140.33" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/CODER/MICROSOFTPASCAL/index.htm">
+			<g id="shape11-40" v:mID="11" v:groupContext="shape" transform="translate(327.199,-715.748)">
+				<title>Microsoft Pascal</title>
+				<desc>Microsoft Pascal</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="56.6929" cy="1144.63" width="113.39" height="19.8425"/>
+				<rect x="0" y="1134.71" width="113.386" height="19.8425" class="st5"/>
+				<text x="23.26" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft Pascal</text>			</g>
+		</a>
+		<g id="shape13-43" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(311.811,-749.764)">
+			<title>Lien dynamique.13</title>
+			<path d="M0 1154.55 L5.31 1154.55 L5.31 1178.65 L8.35 1178.65" class="st6"/>
+		</g>
+		<g id="shape15-48" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(481.969,-700.157)">
+			<title>Lien dynamique.15</title>
+			<path d="M0 1154.55 L-1.86 1154.55 L-1.86 1129.04 L-34.34 1129.04" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/LEXIQUE/ENTERPRISE/commodore.htm">
+			<g id="shape16-53" v:mID="16" v:groupContext="shape" transform="translate(176.094,-456.378)">
+				<title>Commodore Business Machines</title>
+				<desc>Commodore Business Machines</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+				<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+						class="st3"/>
+				<text x="14.26" y="1105.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Commodore <tspan
+							x="22.21" dy="1.2em" class="st8">Business </tspan><tspan x="20.06" dy="1.2em" class="st8">Machines</tspan></text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/AMIGABASIC/index.htm">
+			<g id="shape17-58" v:mID="17" v:groupContext="shape" transform="translate(312.157,-510.236)">
+				<title>AmigaBASIC</title>
+				<desc>AmigaBASIC</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="15.07" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>AmigaBASIC</text>			</g>
+		</a>
+		<g id="shape18-61" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(434.046,-554.173)">
+			<title>Lien dynamique.18</title>
+			<path d="M0 1154.55 L-10.63 1154.55 L-10.63 1188.57 L-35.48 1188.57" class="st6"/>
+		</g>
+		<g id="shape19-66" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(312.157,-520.157)">
+			<title>Lien dynamique.19</title>
+			<path d="M0 1154.55 L-10.63 1154.55 L-10.63 1178.65 L-43.51 1178.65" class="st6"/>
+		</g>
+		<g id="shape20-71" v:mID="20" v:groupContext="shape" transform="translate(721.56,-490.649)">
+			<title>Lifeboat Associates</title>
+			<desc>Lifeboat Associates</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+			<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+					class="st3"/>
+			<text x="23.09" y="1111.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Lifeboat <tspan
+						x="18.47" dy="1.2em" class="st8">Associates</tspan></text>		</g>
+		<a xlink:href="https://www.gladir.com/CODER/LATTICEC/index.htm">
+			<g id="shape21-75" v:mID="21" v:groupContext="shape" transform="translate(642.19,-572.598)">
+				<title>Lattice C</title>
+				<desc>Lattice C</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="22.29" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Lattice C</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/MICROSOFTC/index.htm">
+			<g id="shape22-78" v:mID="22" v:groupContext="shape" transform="translate(540.143,-572.598)">
+				<title>Microsoft C</title>
+				<desc>Microsoft C</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="16.18" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft C</text>			</g>
+		</a>
+		<g id="shape23-81" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(738.333,-569.183)">
+			<title>Lien dynamique.23</title>
+			<path d="M0 1153.71 L0 1141.21 L-9.73 1141.21" class="st6"/>
+		</g>
+		<g id="shape24-86" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(642.19,-575.433)">
+			<title>Lien dynamique.24</title>
+			<path d="M0 1147.46 L-15.64 1147.46" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/CODER/QUICKC/index.htm">
+			<g id="shape47-91" v:mID="47" v:groupContext="shape" transform="translate(596.836,-540)">
+				<title>QuickC</title>
+				<desc>QuickC</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="25.49" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>QuickC</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/VISUALCPP/index.htm">
+			<g id="shape48-94" v:mID="48" v:groupContext="shape" transform="translate(540.143,-481.89)">
+				<title>Visual C++</title>
+				<desc>Visual C++</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="18.8" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Visual C++</text>			</g>
+		</a>
+		<g id="shape49-97" v:mID="49" v:groupContext="shape" v:layerMember="0" transform="translate(579.828,-572.598)">
+			<title>Lien dynamique.49</title>
+			<path d="M0 1154.55 L0 1177.23 L9.97 1177.23" class="st6"/>
+		</g>
+		<g id="shape50-102" v:mID="50" v:groupContext="shape" v:layerMember="0" transform="translate(572.742,-572.598)">
+			<title>Lien dynamique.50</title>
+			<path d="M7.09 1154.55 L7.09 1218.38" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/CODER/QBASIC/index.htm">
+			<g id="shape51-107" v:mID="51" v:groupContext="shape" transform="translate(312.157,-596.693)">
+				<title>QBasic</title>
+				<desc>QBasic</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="25.99" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>QBasic</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/QBASIC/index.htm">
+			<g id="shape52-110" v:mID="52" v:groupContext="shape" transform="translate(312.157,-568.346)">
+				<title>QuickBASIC</title>
+				<desc>QuickBASIC</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="16.32" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>QuickBASIC</text>			</g>
+		</a>
+		<g id="shape53-113" v:mID="53" v:groupContext="shape" transform="translate(799.716,-671.811)">
+			<title>Hexagone.53</title>
+			<desc>Sybase</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="1126.2" width="56.7" height="56.6929"/>
+			<path d="M44.71 1097.86 L11.98 1097.86 L-4.39 1126.2 L11.98 1154.55 L44.71 1154.55 L61.08 1126.2 L44.71 1097.86 Z"
+					class="st3"/>
+			<text x="14.32" y="1129.2" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Sybase</text>		</g>
+		<g id="shape54-116" v:mID="54" v:groupContext="shape" transform="translate(880.928,-603.78)">
+			<title>SAP</title>
+			<desc>SAP</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+			<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+					class="st3"/>
+			<text x="31.91" y="1117.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>SAP</text>		</g>
+		<a xlink:href="https://www.gladir.com/CODER/SQLSERVER/index.htm">
+			<g id="shape55-119" v:mID="55" v:groupContext="shape" transform="translate(660.818,-690.236)">
+				<title>SQL Server</title>
+				<desc>SQL Server</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+				<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st5"/>
+				<text x="27.69" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>SQL Server</text>			</g>
+		</a>
+		<g id="shape56-122" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(660.818,-693.071)">
+			<title>Lien dynamique.56</title>
+			<path d="M0 1147.46 L-40.88 1147.46" class="st6"/>
+		</g>
+		<g id="shape57-127" v:mID="57" v:groupContext="shape" v:layerMember="0" transform="translate(795.33,-693.071)">
+			<title>Lien dynamique.57</title>
+			<path d="M0 1147.46 L-28.26 1147.46" class="st6"/>
+		</g>
+		<g id="shape59-132" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(860.794,-700.157)">
+			<title>Lien dynamique.59</title>
+			<path d="M0 1154.55 L36.91 1154.55 L36.91 1164.52" class="st6"/>
+		</g>
+		<g id="shape60-137" v:mID="60" v:groupContext="shape" v:layerMember="0" transform="translate(587.083,-643.465)">
+			<title>Lien dynamique.60</title>
+			<path d="M-6.92 1154.55 L-6.92 1165.18 L-7.25 1165.18 L-7.25 1198.53" class="st6"/>
+		</g>
+		<g id="shape61-142" v:mID="61" v:groupContext="shape" v:layerMember="0" transform="translate(434.046,-554.173)">
+			<title>Lien dynamique.61</title>
+			<path d="M0 1154.55 L-10.63 1154.55 L-10.63 1130.46 L-35.48 1130.46" class="st6"/>
+		</g>
+		<g id="shape62-147" v:mID="62" v:groupContext="shape" v:layerMember="0" transform="translate(434.046,-554.173)">
+			<title>Lien dynamique.62</title>
+			<path d="M0 1154.55 L-10.63 1154.55 L-10.63 1102.11 L-35.48 1102.11" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/OS/OS2/intro.htm">
+			<g id="shape63-152" v:mID="63" v:groupContext="shape" transform="translate(278.141,-668.976)">
+				<title>OS/2</title>
+				<desc>OS/2</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="28.3465" cy="1144.63" width="56.7" height="19.8425"/>
+				<rect x="0" y="1134.71" width="56.6929" height="19.8425" class="st5"/>
+				<text x="18.27" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>OS/2</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/OS/WINDOWSNT/intro.htm">
+			<g id="shape64-155" v:mID="64" v:groupContext="shape" transform="translate(363.18,-668.976)">
+				<title>Windows NT</title>
+				<desc>Windows NT</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="13.87" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows NT</text>			</g>
+		</a>
+		<g id="shape65-158" v:mID="65" v:groupContext="shape" v:layerMember="0" transform="translate(255.934,-671.811)">
+			<title>Lien dynamique.65</title>
+			<path d="M0 1147.46 L15.17 1147.46" class="st6"/>
+		</g>
+		<g id="shape66-163" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(334.834,-671.811)">
+			<title>Lien dynamique.66</title>
+			<path d="M0 1147.46 L21.31 1147.46" class="st6"/>
+		</g>
+		<g id="shape67-168" v:mID="67" v:groupContext="shape" v:layerMember="0" transform="translate(481.969,-700.157)">
+			<title>Lien dynamique.67</title>
+			<path d="M0 1154.55 L-1.86 1154.55 L-1.86 1175.81 L-32.38 1175.81" class="st6"/>
+		</g>
+		<g id="shape68-173" v:mID="68" v:groupContext="shape" transform="translate(28.3465,-470.551)">
+			<title>Seattle Computer Products</title>
+			<desc>Seattle Computer Products</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+			<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+					class="st3"/>
+			<text x="25.52" y="1105.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Seattle <tspan
+						x="19.23" dy="1.2em" class="st8">Computer </tspan><tspan x="21.72" dy="1.2em" class="st8">Products</tspan></text>		</g>
+		<g id="shape69-178" v:mID="69" v:groupContext="shape" transform="translate(128.976,-557.008)">
+			<title>QDOS/86-DOS</title>
+			<desc>QDOS/86-DOS</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+			<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+			<text x="10.42" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>QDOS/86-DOS</text>		</g>
+		<a xlink:href="https://www.gladir.com/OS/MSDOS/intro.htm">
+			<g id="shape70-181" v:mID="70" v:groupContext="shape" transform="translate(221.448,-557.008)">
+				<title>MS-DOS</title>
+				<desc>MS-DOS</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="22.9" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>MS-DOS</text>			</g>
+		</a>
+		<g id="shape71-184" v:mID="71" v:groupContext="shape" v:layerMember="0" transform="translate(113.856,-510.236)">
+			<title>Lien dynamique.71</title>
+			<path d="M0 1154.55 L4.49 1154.55 L4.49 1097.86 L8.08 1097.86" class="st6"/>
+		</g>
+		<g id="shape72-189" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(207.811,-559.843)">
+			<title>Lien dynamique.72</title>
+			<path d="M0.54 1147.46 L6.6 1147.46" class="st6"/>
+		</g>
+		<g id="shape73-194" v:mID="73" v:groupContext="shape" v:layerMember="0" transform="translate(316.409,-606.614)">
+			<title>Lien dynamique.73</title>
+			<path d="M-4.25 1154.55 L-9.92 1154.55 L-9.92 1099.23" class="st6"/>
+		</g>
+		<g id="shape74-199" v:mID="74" v:groupContext="shape" v:layerMember="0" transform="translate(312.157,-606.614)">
+			<title>Lien dynamique.74</title>
+			<path d="M0 1154.55 L-51.02 1154.55 L-51.02 1177.27" class="st6"/>
+		</g>
+		<g id="shape75-204" v:mID="75" v:groupContext="shape" v:layerMember="0" transform="translate(312.157,-546.378)">
+			<title>Lien dynamique.75</title>
+			<path d="M0 1151.01 L-51.02 1151.01 L-51.02 1150.96" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/CODER/.NET/index.htm">
+			<g id="shape76-209" v:mID="76" v:groupContext="shape" transform="translate(540.143,-416.693)">
+				<title>Rectangle.76</title>
+				<desc>.NET</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st9"/>
+				<text x="30.32" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>.NET</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/VISUALCPPNET/index.htm">
+			<g id="shape77-212" v:mID="77" v:groupContext="shape" transform="translate(540.143,-449.291)">
+				<title>Visual C++ .NET</title>
+				<desc>Visual C++ .NET</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="8.3" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Visual C++ .NET</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/VBDOS/index.htm">
+			<g id="shape78-215" v:mID="78" v:groupContext="shape" transform="translate(434.046,-513.071)">
+				<title>Visual Basic for DOS</title>
+				<desc>Visual Basic for DOS</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="9.08" y="1141.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Visual Basic for <tspan
+							x="31" dy="1.2em" class="st8">DOS</tspan></text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/VB/index.htm">
+			<g id="shape79-219" v:mID="79" v:groupContext="shape" transform="translate(434.046,-481.89)">
+				<title>Visual Basic</title>
+				<desc>Visual Basic</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="16.11" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Visual Basic</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/VBNET/index.htm">
+			<g id="shape80-222" v:mID="80" v:groupContext="shape" transform="translate(434.046,-447.215)">
+				<title>Rectangle.80</title>
+				<desc>VB .NET</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="23.63" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>VB .NET</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/ASP/index.htm">
+			<g id="shape81-225" v:mID="81" v:groupContext="shape" transform="translate(434.046,-416.693)">
+				<title>ASP</title>
+				<desc>ASP</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="31.91" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>ASP</text>			</g>
+		</a>
+		<g id="shape82-228" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(466.645,-545.669)">
+			<title>Lien dynamique.82</title>
+			<path d="M7.09 1155.97 L7.09 1160.27" class="st6"/>
+		</g>
+		<g id="shape83-233" v:mID="83" v:groupContext="shape" v:layerMember="0" transform="translate(466.645,-514.488)">
+			<title>Lien dynamique.83</title>
+			<path d="M7.09 1155.97 L7.09 1160.27" class="st6"/>
+		</g>
+		<g id="shape84-238" v:mID="84" v:groupContext="shape" v:layerMember="0" transform="translate(466.645,-481.89)">
+			<title>Lien dynamique.84</title>
+			<path d="M7.09 1154.55 L7.09 1162.34" class="st6"/>
+		</g>
+		<g id="shape86-243" v:mID="86" v:groupContext="shape" v:layerMember="0" transform="translate(513.416,-419.528)">
+			<title>Lien dynamique.86</title>
+			<path d="M0 1147.46 L19.69 1147.46" class="st6"/>
+		</g>
+		<g id="shape87-248" v:mID="87" v:groupContext="shape" v:layerMember="0" transform="translate(572.742,-491.811)">
+			<title>Lien dynamique.87</title>
+			<path d="M7.09 1154.55 L7.09 1170.19" class="st6"/>
+		</g>
+		<g id="shape89-253" v:mID="89" v:groupContext="shape" v:layerMember="0" transform="translate(513.416,-457.136)">
+			<title>Lien dynamique.89</title>
+			<path d="M0 1154.55 L10.63 1154.55 L10.63 1185.07 L19.69 1185.07" class="st6"/>
+		</g>
+		<g id="shape90-258" v:mID="90" v:groupContext="shape" v:layerMember="0" transform="translate(572.742,-450)">
+			<title>.NET</title>
+			<path d="M7.09 1155.26 L7.09 1160.98" class="st6"/>
+		</g>
+		<g id="shape91-263" v:mID="91" v:groupContext="shape" transform="translate(45.6999,-637.795)">
+			<title>Central-Point</title>
+			<desc>Central-Point</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="1126.2" width="56.7" height="56.6929"/>
+			<path d="M44.71 1097.86 L11.98 1097.86 L-4.39 1126.2 L11.98 1154.55 L44.71 1154.55 L61.08 1126.2 L44.71 1097.86 Z"
+					class="st3"/>
+			<text x="12.07" y="1123.2" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Central-<tspan
+						x="17.68" dy="1.2em" class="st8">Point</tspan></text>		</g>
+		<a xlink:href="https://www.gladir.com/LEXIQUE/ARTICLES/symantec.htm">
+			<g id="shape92-267" v:mID="92" v:groupContext="shape" transform="translate(45.6999,-715.748)">
+				<title>Symantec</title>
+				<desc>Symantec</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+				<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+						class="st3"/>
+				<text x="19.83" y="1117.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Symantec</text>			</g>
+		</a>
+		<g id="shape93-270" v:mID="93" v:groupContext="shape" v:layerMember="0" transform="translate(67.1633,-715.748)">
+			<title>Lien dynamique.93</title>
+			<path d="M-4.69 1154.55 L-4.69 1165.18 L-9.48 1165.18 L-9.48 1168.77" class="st6"/>
+		</g>
+		<g id="shape94-275" v:mID="94" v:groupContext="shape" transform="translate(28.6921,-596.693)">
+			<title>Central-Point Anti-Virus</title>
+			<desc>CPAV</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+			<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+			<text x="28.71" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>CPAV</text>		</g>
+		<g id="shape95-278" v:mID="95" v:groupContext="shape" transform="translate(129.322,-596.693)">
+			<title>Microsoft Anti-Virus</title>
+			<desc>MSAV</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+			<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+			<text x="27.38" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>MSAV</text>		</g>
+		<g id="shape96-281" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(208.692,-606.614)">
+			<title>Lien dynamique.96</title>
+			<path d="M0 1154.55 L52.44 1154.55 L52.44 1177.27" class="st6"/>
+		</g>
+		<g id="shape97-286" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(108.062,-599.528)">
+			<title>Lien dynamique.97</title>
+			<path d="M0 1147.46 L14.22 1147.46" class="st6"/>
+		</g>
+		<g id="shape98-291" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(55.9422,-637.795)">
+			<title>Lien dynamique.98</title>
+			<path d="M1.74 1154.55 L1.74 1165.18 L12.43 1165.18 L12.43 1168.77" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/CODER/MASM/index.htm">
+			<g id="shape170-296" v:mID="170" v:groupContext="shape" transform="translate(176.094,-779.528)">
+				<title>Macro Assembler</title>
+				<desc>Macro Assembler</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="56.6929" cy="1144.63" width="113.39" height="19.8425"/>
+				<rect x="0" y="1134.71" width="113.386" height="19.8425" class="st5"/>
+				<text x="21.11" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Macro Assembler</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/CODER/MASM/index.htm">
+			<g id="shape171-299" v:mID="171" v:groupContext="shape" transform="translate(329.164,-779.528)">
+				<title>MASM</title>
+				<desc>MASM</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="56.6929" cy="1144.63" width="113.39" height="19.8425"/>
+				<rect x="0" y="1134.71" width="113.386" height="19.8425" class="st5"/>
+				<text x="42.95" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>MASM</text>			</g>
+		</a>
+		<g id="shape172-302" v:mID="172" v:groupContext="shape" v:layerMember="0" transform="translate(188.732,-718.583)">
+			<title>Lien dynamique.172</title>
+			<path d="M-1.53 1154.55 L-1.53 1140.38 L-19.73 1140.38 L-19.73 1083.69 L-19.68 1083.69" class="st6"/>
+		</g>
+		<g id="shape173-307" v:mID="173" v:groupContext="shape" v:layerMember="0" transform="translate(289.479,-782.362)">
+			<title>Lien dynamique.173</title>
+			<path d="M0 1147.46 L32.65 1147.46" class="st6"/>
+		</g>
+		<g id="shape174-312" v:mID="174" v:groupContext="shape" v:layerMember="0" transform="translate(442.55,-789.449)">
+			<title>Lien dynamique.174</title>
+			<path d="M0 1154.55 L72.15 1154.55 L72.15 1180.11" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/ONLINE/AZURE/index.htm">
+			<g id="shape175-317" v:mID="175" v:groupContext="shape" transform="translate(523.54,-840.472)">
+				<title>Azure</title>
+				<desc>Azure</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="56.6929" cy="1144.63" width="113.39" height="19.8425"/>
+				<rect x="0" y="1134.71" width="113.386" height="19.8425" class="st9"/>
+				<text x="44.97" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Azure</text>			</g>
+		</a>
+		<g id="shape176-320" v:mID="176" v:groupContext="shape" v:layerMember="0" transform="translate(573.112,-756.85)">
+			<title>Lien dynamique.176</title>
+			<path d="M7.05 1154.55 L7.05 1143.92 L7.12 1143.92 L7.12 1077.97" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/ONLINE/GITHUB/intro.htm">
+			<g id="shape177-325" v:mID="177" v:groupContext="shape" transform="translate(666.487,-908.504)">
+				<title>GitHub</title>
+				<desc>GitHub</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="56.6929" cy="1144.63" width="113.39" height="19.8425"/>
+				<rect x="0" y="1134.71" width="113.386" height="19.8425" class="st5"/>
+				<text x="42.35" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>GitHub</text>			</g>
+		</a>
+		<g id="shape178-328" v:mID="178" v:groupContext="shape" transform="translate(884.755,-878.74)">
+			<title>GitHub, Inc.</title>
+			<desc>GitHub, Inc.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+			<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+					class="st3"/>
+			<text x="15.7" y="1117.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>GitHub, Inc.</text>		</g>
+		<g id="shape179-331" v:mID="179" v:groupContext="shape" v:layerMember="0" transform="translate(878.616,-911.339)">
+			<title>Lien dynamique.179</title>
+			<path d="M0 1147.46 L-91.7 1147.46" class="st6"/>
+		</g>
+		<g id="shape180-336" v:mID="180" v:groupContext="shape" v:layerMember="0" transform="translate(666.487,-918.425)">
+			<title>Lien dynamique.180</title>
+			<path d="M0 1154.55 L-10.63 1154.55 L-10.63 1222.58 L-22.52 1222.58" class="st6"/>
+		</g>
+		<g id="shape181-341" v:mID="181" v:groupContext="shape" transform="translate(660.818,-819.213)">
+			<title>Azure SQL Database</title>
+			<desc>Azure SQL Database</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+			<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st5"/>
+			<text x="8.85" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Azure SQL Database</text>		</g>
+		<g id="shape182-344" v:mID="182" v:groupContext="shape" v:layerMember="0" transform="translate(703.338,-710.079)">
+			<title>Lien dynamique.182</title>
+			<path d="M7.09 1154.55 L7.09 1052.46" class="st6"/>
+		</g>
+		<g id="shape183-349" v:mID="183" v:groupContext="shape" v:layerMember="0" transform="translate(710.424,-837.638)">
+			<title>Lien dynamique.183</title>
+			<path d="M0 1153.13 L0 1141.8 L-66.46 1141.8" class="st6"/>
+		</g>
+		<g id="shape184-354" v:mID="184" v:groupContext="shape" transform="translate(312.157,-459.213)">
+			<title>Color Basic</title>
+			<desc>Color Basic</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+			<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+			<text x="17.39" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Color Basic</text>		</g>
+		<g id="shape185-357" v:mID="185" v:groupContext="shape" transform="translate(204.864,-378.576)">
+			<title>Tandy</title>
+			<desc>Tandy</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="1126.2" width="56.7" height="56.6929"/>
+			<path d="M44.71 1097.86 L11.98 1097.86 L-4.39 1126.2 L11.98 1154.55 L44.71 1154.55 L61.08 1126.2 L44.71 1097.86 Z"
+					class="st3"/>
+			<text x="16" y="1129.2" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Tandy</text>		</g>
+		<g id="shape186-360" v:mID="186" v:groupContext="shape" transform="translate(104.234,-311.811)">
+			<title>Radio Shack</title>
+			<desc>Radio Shack</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+			<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+					class="st3"/>
+			<text x="15.33" y="1117.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Radio Shack</text>		</g>
+		<g id="shape187-363" v:mID="187" v:groupContext="shape" v:layerMember="0" transform="translate(166.831,-391.181)">
+			<title>Lien dynamique.187</title>
+			<path d="M0 1154.55 L0 1138.81 L26.61 1138.81" class="st6"/>
+		</g>
+		<g id="shape188-368" v:mID="188" v:groupContext="shape" v:layerMember="0" transform="translate(265.942,-406.922)">
+			<title>Lien dynamique.188</title>
+			<path d="M0 1154.55 L6.24 1154.55 L6.24 1092.34 L39.17 1092.34" class="st6"/>
+		</g>
+		<g id="shape189-373" v:mID="189" v:groupContext="shape" v:layerMember="0" transform="translate(434.046,-554.173)">
+			<title>Lien dynamique.189</title>
+			<path d="M0 1154.55 L-10.63 1154.55 L-10.63 1219.04 L-82.2 1219.04 L-82.2 1222.63" class="st6"/>
+		</g>
+		<g id="shape190-378" v:mID="190" v:groupContext="shape" transform="translate(425.542,-340.157)">
+			<title>Microware Systems Corp.</title>
+			<desc>Microware Systems Corp.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="1126.2" width="56.7" height="56.6929"/>
+			<path d="M44.71 1097.86 L11.98 1097.86 L-4.39 1126.2 L11.98 1154.55 L44.71 1154.55 L61.08 1126.2 L44.71 1097.86 Z"
+					class="st3"/>
+			<text x="6.23" y="1117.2" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microware <tspan
+						x="11.72" dy="1.2em" class="st8">Systems </tspan><tspan x="17.41" dy="1.2em" class="st8">Corp</tspan>.</text>		</g>
+		<g id="shape191-383" v:mID="191" v:groupContext="shape" v:layerMember="0" transform="translate(421.157,-368.504)">
+			<title>Lien dynamique.191</title>
+			<path d="M0 1154.55 L-6.24 1154.55 L-6.24 1053.92 L-22.59 1053.92" class="st6"/>
+		</g>
+		<g id="shape193-388" v:mID="193" v:groupContext="shape" transform="translate(394.785,-840.42)">
+			<title>Office 365</title>
+			<desc>Office 365</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1144.63" width="113.39" height="19.8425"/>
+			<rect x="0" y="1134.71" width="113.386" height="19.8425" class="st5"/>
+			<text x="35.85" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Office 365</text>		</g>
+		<g id="shape195-391" v:mID="195" v:groupContext="shape" v:layerMember="0" transform="translate(508.171,-843.281)">
+			<title>Lien dynamique.195</title>
+			<path d="M0 1147.49 L5.31 1147.49 L5.31 1147.44 L8.33 1147.44" class="st6"/>
+		</g>
+		<g id="shape196-396" v:mID="196" v:groupContext="shape" transform="translate(51.3692,-810.709)">
+			<title>LinkedIn</title>
+			<desc>LinkedIn (acheté en 2002)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+			<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+					class="st3"/>
+			<text x="22.53" y="1111.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>LinkedIn<v:newlineChar/><tspan
+						x="5.35" dy="1.2em" class="st8">(</tspan>acheté en 2002)</text>		</g>
+		<g id="shape199-400" v:mID="199" v:groupContext="shape" v:layerMember="0" transform="translate(136.879,-850.394)">
+			<title>Lien dynamique.199</title>
+			<path d="M0 1154.55 L115.72 1154.55 L115.72 1177.23 L377.82 1177.23 L377.82 1241.05" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/OS/XENIX/index.htm">
+			<g id="shape202-405" v:mID="202" v:groupContext="shape" transform="translate(660.818,-626.457)">
+				<title>Xenix</title>
+				<desc>Xenix</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+				<text x="28.66" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Xenix</text>			</g>
+		</a>
+		<g id="shape203-408" v:mID="203" v:groupContext="shape" transform="translate(884.755,-490.394)">
+			<title>AT&#38;T</title>
+			<desc>AT&#38;T</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+			<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+					class="st3"/>
+			<text x="28.51" y="1117.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>AT&#38;T</text>		</g>
+		<g id="shape204-411" v:mID="204" v:groupContext="shape" transform="translate(780.298,-603.78)">
+			<title>UNIX - Version 7</title>
+			<desc>UNIX – Version 7</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+			<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st5"/>
+			<text x="5.54" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>UNIX – Version 7</text>		</g>
+		<g id="shape205-414" v:mID="205" v:groupContext="shape" v:layerMember="0" transform="translate(878.616,-530.079)">
+			<title>Lien dynamique.205</title>
+			<path d="M0 1154.55 L-58.63 1154.55 L-58.63 1087.89" class="st6"/>
+		</g>
+		<g id="shape206-419" v:mID="206" v:groupContext="shape" v:layerMember="0" transform="translate(780.298,-613.701)">
+			<title>Lien dynamique.206</title>
+			<path d="M0 1154.55 L-10.63 1154.55 L-10.63 1131.87 L-33.07 1131.87" class="st6"/>
+		</g>
+		<g id="shape207-424" v:mID="207" v:groupContext="shape" v:layerMember="0" transform="translate(660.818,-636.378)">
+			<title>Lien dynamique.207</title>
+			<path d="M0 1154.55 L-10.63 1154.55 L-10.63 1090.77 L-40.88 1090.77" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/SOFTWARE/MSOFFICE/presentation.htm">
+			<g id="shape208-429" v:mID="208" v:groupContext="shape" transform="translate(278.141,-915.591)">
+				<title>Microsoft Office</title>
+				<desc>Microsoft Office</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+				<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st9"/>
+				<text x="16.65" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft Office</text>			</g>
+		</a>
+		<g id="shape209-432" v:mID="209" v:groupContext="shape" transform="translate(553.102,-938.268)">
+			<title>Hotmail</title>
+			<desc>Hotmail</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+			<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+					class="st3"/>
+			<text x="23.57" y="1117.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Hotmail</text>		</g>
+		<g id="shape210-435" v:mID="210" v:groupContext="shape" transform="translate(394.766,-949.606)">
+			<title>MSN Hotmail</title>
+			<desc>MSN Hotmail</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1144.63" width="113.39" height="19.8425"/>
+			<rect x="0" y="1134.71" width="113.386" height="19.8425" class="st5"/>
+			<text x="29.65" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>MSN Hotmail</text>		</g>
+		<g id="shape211-438" v:mID="211" v:groupContext="shape" transform="translate(394.766,-914.121)">
+			<title>Windows Live Hotmail</title>
+			<desc>Windows Live Hotmail</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1144.63" width="113.39" height="19.8425"/>
+			<rect x="0" y="1134.71" width="113.386" height="19.8425" class="st5"/>
+			<text x="11.31" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Live Hotmail</text>		</g>
+		<g id="shape212-441" v:mID="212" v:groupContext="shape" transform="translate(394.766,-877.323)">
+			<title>Outlook.com</title>
+			<desc>Outlook.com</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1144.63" width="113.39" height="19.8425"/>
+			<rect x="0" y="1134.71" width="113.386" height="19.8425" class="st5"/>
+			<text x="30.38" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Outlook.com</text>		</g>
+		<g id="shape213-444" v:mID="213" v:groupContext="shape" v:layerMember="0" transform="translate(546.962,-980.787)">
+			<title>Lien dynamique.213</title>
+			<path d="M0 1157.39 L-95.5 1157.39 L-95.5 1158.85" class="st6"/>
+		</g>
+		<g id="shape214-449" v:mID="214" v:groupContext="shape" v:layerMember="0" transform="translate(444.373,-949.606)">
+			<title>Lien dynamique.214</title>
+			<path d="M7.09 1154.55 L7.09 1163.15" class="st6"/>
+		</g>
+		<g id="shape215-454" v:mID="215" v:groupContext="shape" v:layerMember="0" transform="translate(444.373,-914.121)">
+			<title>Lien dynamique.215</title>
+			<path d="M7.09 1154.55 L7.09 1164.47" class="st6"/>
+		</g>
+		<g id="shape216-459" v:mID="216" v:groupContext="shape" v:layerMember="0" transform="translate(444.382,-877.323)">
+			<title>Lien dynamique.216</title>
+			<path d="M7.08 1154.55 L7.08 1159.87 L7.1 1159.87 L7.1 1164.57" class="st6"/>
+		</g>
+		<g id="shape217-464" v:mID="217" v:groupContext="shape" v:layerMember="0" transform="translate(327.747,-915.591)">
+			<title>Lien dynamique.217</title>
+			<path d="M0 1154.55 L0 1219.8 L60 1219.8" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/SOFTWARE/WORD/presentation.htm">
+			<g id="shape218-469" v:mID="218" v:groupContext="shape" transform="translate(153.416,-956.236)">
+				<title>Microsoft Word</title>
+				<desc>Microsoft Word</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+				<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st5"/>
+				<text x="17.31" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft Word</text>			</g>
+		</a>
+		<a xlink:href="https://www.gladir.com/SOFTWARE/EXCEL/presentation.htm">
+			<g id="shape219-472" v:mID="219" v:groupContext="shape" transform="translate(153.416,-915.134)">
+				<title>Microsoft Excel</title>
+				<desc>Microsoft Excel</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+				<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st5"/>
+				<text x="18.41" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft Excel</text>			</g>
+		</a>
+		<g id="shape220-475" v:mID="220" v:groupContext="shape" transform="translate(153.416,-877.323)">
+			<title>Microsoft PowerPoint</title>
+			<desc>Microsoft PowerPoint</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+			<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st5"/>
+			<text x="5.07" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft PowerPoint</text>		</g>
+		<g id="shape221-478" v:mID="221" v:groupContext="shape" transform="translate(40.0306,-915.134)">
+			<title>Microsoft Multiplan</title>
+			<desc>Microsoft Multiplan</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+			<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st5"/>
+			<text x="9.1" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft Multiplan</text>		</g>
+		<g id="shape222-481" v:mID="222" v:groupContext="shape" v:layerMember="0" transform="translate(139.243,-917.968)">
+			<title>Lien dynamique.222</title>
+			<path d="M0 1147.46 L7.13 1147.46" class="st6"/>
+		</g>
+		<g id="shape223-486" v:mID="223" v:groupContext="shape" v:layerMember="0" transform="translate(252.629,-966.157)">
+			<title>Lien dynamique.223</title>
+			<path d="M0 1154.55 L10.63 1154.55 L10.63 1195.2 L18.47 1195.2" class="st6"/>
+		</g>
+		<g id="shape224-491" v:mID="224" v:groupContext="shape" v:layerMember="0" transform="translate(252.629,-887.244)">
+			<title>Lien dynamique.224</title>
+			<path d="M0 1154.55 L10.63 1154.55 L10.63 1116.28 L18.47 1116.28" class="st6"/>
+		</g>
+		<g id="shape225-496" v:mID="225" v:groupContext="shape" v:layerMember="0" transform="translate(252.629,-918.197)">
+			<title>Lien dynamique.225</title>
+			<path d="M0 1147.69 L10.63 1147.69 L10.63 1147.24 L18.47 1147.24" class="st6"/>
+		</g>
+		<g id="shape226-501" v:mID="226" v:groupContext="shape" transform="translate(40.0306,-956.236)">
+			<title>Multi-Tool Word</title>
+			<desc>Multi-Tool Word</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+			<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st5"/>
+			<text x="15.76" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Multi-Tool Word</text>		</g>
+		<g id="shape227-504" v:mID="227" v:groupContext="shape" v:layerMember="0" transform="translate(139.243,-959.071)">
+			<title>Lien dynamique.227</title>
+			<path d="M0 1147.46 L7.13 1147.46" class="st6"/>
+		</g>
+		<g id="shape228-509" v:mID="228" v:groupContext="shape" transform="translate(51.3692,-1045.98)">
+			<title>Shapeware Corporation</title>
+			<desc>Shapeware Corporation</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="1114.87" width="79.38" height="79.3701"/>
+			<path d="M62.6 1075.18 L16.77 1075.18 L-6.14 1114.87 L16.77 1154.55 L62.6 1154.55 L85.51 1114.87 L62.6 1075.18 Z"
+					class="st3"/>
+			<text x="17.05" y="1111.87" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Shapeware <tspan
+						x="15.15" dy="1.2em" class="st8">Corporation</tspan></text>		</g>
+		<g id="shape230-513" v:mID="230" v:groupContext="shape" transform="translate(40.0306,-1003.46)">
+			<title>Visio</title>
+			<desc>Visio</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+			<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st5"/>
+			<text x="39.88" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Visio</text>		</g>
+		<a xlink:href="https://www.gladir.com/SOFTWARE/MICROSOFTVISIO/presentation.htm">
+			<g id="shape231-516" v:mID="231" v:groupContext="shape" transform="translate(154.834,-1003.46)">
+				<title>Microsoft Visio</title>
+				<desc>Microsoft Visio</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="1144.63" width="99.22" height="19.8425"/>
+				<rect x="0" y="1134.71" width="99.2126" height="19.8425" class="st5"/>
+				<text x="19.04" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft Visio</text>			</g>
+		</a>
+		<g id="shape233-519" v:mID="233" v:groupContext="shape" v:layerMember="0" transform="translate(139.243,-1006.3)">
+			<title>Lien dynamique.233</title>
+			<path d="M0 1147.46 L8.55 1147.46" class="st6"/>
+		</g>
+		<g id="shape234-524" v:mID="234" v:groupContext="shape" v:layerMember="0" transform="translate(254.046,-1013.39)">
+			<title>Lien dynamique.234</title>
+			<path d="M0 1154.55 L10.63 1154.55 L10.63 1242.43 L17.05 1242.43" class="st6"/>
+		</g>
+		<g id="shape235-529" v:mID="235" v:groupContext="shape" v:layerMember="0" transform="translate(113.966,-1045.98)">
+			<title>Lien dynamique.235</title>
+			<path d="M0 1154.55 L0 1165.18 L-24.33 1165.18 L-24.33 1170.19" class="st6"/>
+		</g>
+		<a xlink:href="https://www.gladir.com/LEXIQUE/SYSTEM/xbox.htm">
+			<g id="shape236-534" v:mID="236" v:groupContext="shape" transform="translate(592.787,-790.866)">
+				<title>Xbox</title>
+				<desc>Xbox</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.685" cy="1144.63" width="79.38" height="19.8425"/>
+				<rect x="0" y="1134.71" width="79.3701" height="19.8425" class="st9"/>
+				<text x="29.66" y="1147.63" class="st4" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Xbox</text>			</g>
+		</a>
+		<g id="shape237-537" v:mID="237" v:groupContext="shape" v:layerMember="0" transform="translate(579.389,-756.85)">
+			<title>Lien dynamique.237</title>
+			<path d="M0.78 1154.55 L0.78 1110.61 L6.36 1110.61" class="st6"/>
+		</g>
+	</g>
+</svg>

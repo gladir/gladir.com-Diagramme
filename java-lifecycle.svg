@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Généré par Microsoft Visio, SVG Export java-lifecycle.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st16">
+	<v:documentProperties v:langID="1036" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#c7c8c8;stroke-width:0.25}
+		.st2 {fill:#a8d08d;stroke:#c7c8c8;stroke-width:0.25}
+		.st3 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
+		.st4 {fill:#538135;stroke:#c7c8c8;stroke-width:0.25}
+		.st5 {font-size:1em}
+		.st6 {fill:#007f7f;stroke:#c7c8c8;stroke-width:0.25}
+		.st7 {fill:#5b9bd5;stroke:#c7c8c8;stroke-width:0.25}
+		.st8 {fill:#1e4e79;stroke:#c7c8c8;stroke-width:0.25}
+		.st9 {fill:#6600cc;stroke:#c7c8c8;stroke-width:0.25}
+		.st10 {fill:#a781be;stroke:#c7c8c8;stroke-width:0.25}
+		.st11 {fill:#deebf6;stroke:#c7c8c8;stroke-width:0.25}
+		.st12 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st13 {marker-end:url(#mrkr13-76);marker-start:url(#mrkr13-74);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st14 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st15 {marker-end:url(#mrkr4-82);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-74" class="st14" v:arrowType="13" v:arrowSize="2" v:setback="10.2" refX="10.2" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(3.52) "/>
+		</marker>
+		<marker id="mrkr13-76" class="st14" v:arrowType="13" v:arrowSize="2" v:setback="10.56" refX="-10.56" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-82" class="st14" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Page 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Lien" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(255.118,-175.748)">
+			<title>Cercle</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 418.11 A177.165 177.165 0 0 1 354.33 418.11 A177.165 177.165 0 1 1 0 418.11 Z" class="st1"/>
+		</g>
+		<g id="shape2-3" v:mID="2" v:groupContext="shape" transform="translate(317.48,-481.89)">
+			<title>Rectangle</title>
+			<desc>IDE</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st2"/>
+			<text x="49.92" y="523.24" class="st3" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>IDE</text>		</g>
+		<g id="shape3-6" v:mID="3" v:groupContext="shape" transform="translate(496.063,-459.213)">
+			<title>Rectangle.3</title>
+			<desc>Contrôle des sources</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st4"/>
+			<text x="30.87" y="523.24" class="st3" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Contrôle des<v:lf/><tspan
+						x="41.17" dy="1.2em" class="st5">sources</tspan></text>		</g>
+		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(552.756,-323.15)">
+			<title>Rectangle.4</title>
+			<desc>Intégration continue</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st6"/>
+			<text x="14.99" y="523.24" class="st3" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Intégration continue</text>		</g>
+		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(521.575,-184.252)">
+			<title>Rectangle.5</title>
+			<desc>Outil de construction</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st7"/>
+			<text x="13.83" y="523.24" class="st3" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Outil de construction</text>		</g>
+		<g id="shape6-16" v:mID="6" v:groupContext="shape" transform="translate(362.835,-144.567)">
+			<title>Rectangle.6</title>
+			<desc>Gestionnaire de dépôt</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st8"/>
+			<text x="11.18" y="523.24" class="st3" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Gestionnaire de dépôt</text>		</g>
+		<g id="shape7-19" v:mID="7" v:groupContext="shape" transform="translate(209.764,-215.433)">
+			<title>Rectangle.7</title>
+			<desc>Outils de provisions</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st9"/>
+			<text x="16.72" y="523.24" class="st3" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Outils de provisions</text>		</g>
+		<g id="shape8-22" v:mID="8" v:groupContext="shape" transform="translate(209.764,-351.496)">
+			<title>Rectangle.8</title>
+			<desc>Serveurs</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<rect x="0" y="510.236" width="113.386" height="85.0394" class="st10"/>
+			<text x="39.09" y="523.24" class="st3" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Serveurs</text>		</g>
+		<g id="group9-25" transform="translate(376.198,-34.0157)" v:mID="9" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Cylindre</title>
+			<desc>Dépôt centrale</desc>
+			<g id="shape10-26" v:mID="10" v:groupContext="shape">
+				<title>Feuille.10</title>
+				<v:userDefs>
+					<v:ud v:nameU="ControlHalfHeight" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(1)"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#5b9bd5)"/>
+				</v:userDefs>
+				<path d="M0 586.77 A42.5197 8.50394 -180 1 0 85.04 586.77 L85.04 518.74 L0 518.74 L0 586.77 Z" class="st7"/>
+			</g>
+			<g id="shape9-28" v:mID="9" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="552.756" width="85.04" height="85.0394"/>
+				<ellipse cx="42.5197" cy="518.74" rx="42.5197" ry="8.50394" class="st7"/>
+				<text x="12.21" y="555.76" class="st3" v:langID="3084"><v:paragraph v:horizAlign="1"/><v:tabList/>Dépôt centrale</text>			</g>
+		</g>
+		<g id="shape11-31" v:mID="11" v:groupContext="shape" transform="translate(322.016,-485.433)">
+			<title>Rectangle à coins arrondis</title>
+			<desc>- Eclipse - IntelliJ IDEA - NetBeans - Xcode</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="52.4409" cy="564.803" width="104.89" height="60.9449"/>
+			<path d="M10.49 595.28 L94.39 595.28 A10.488 10.488 -180 0 0 104.88 584.79 L104.88 544.82 A10.488 10.488 -180 0 0 94.39
+						 534.33 L10.49 534.33 A10.488 10.488 -180 0 0 -0 544.82 L0 584.79 A10.488 10.488 -180 0 0 10.49 595.28 Z"
+					class="st11"/>
+			<text x="4" y="547.33" class="st12" v:langID="3084"><v:paragraph/><v:tabList/>- Eclipse<v:lf/><tspan x="4" dy="1.2em"
+						class="st5">-</tspan> IntelliJ IDEA<v:newlineChar/><tspan x="4" dy="1.2em" class="st5">-</tspan> NetBeans<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st5">-</tspan> Xcode</text>		</g>
+		<g id="shape12-37" v:mID="12" v:groupContext="shape" transform="translate(500.315,-462.047)">
+			<title>Rectangle à coins arrondis.12</title>
+			<desc>- Clearcase - GIT - Subversion (SVN)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="52.4409" cy="568.346" width="104.89" height="53.8583"/>
+			<path d="M10.49 595.28 L94.39 595.28 A10.488 10.488 -180 0 0 104.88 584.79 L104.88 551.91 A10.488 10.488 -180 0 0 94.39
+						 541.42 L10.49 541.42 A10.488 10.488 -180 0 0 -0 551.91 L0 584.79 A10.488 10.488 -180 0 0 10.49 595.28 Z"
+					class="st11"/>
+			<text x="4" y="554.42" class="st12" v:langID="3084"><v:paragraph/><v:tabList/>- Clearcase<v:newlineChar/><tspan x="4"
+						dy="1.2em" class="st5">-</tspan> GIT<v:newlineChar/><tspan x="4" dy="1.2em" class="st5">-</tspan> Subversion (SVN)</text>		</g>
+		<g id="shape15-42" v:mID="15" v:groupContext="shape" transform="translate(558.425,-326.693)">
+			<title>Rectangle à coins arrondis.15</title>
+			<desc>- Bamboo - Hudson - Jenkins - TeamCity</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="52.4409" cy="564.803" width="104.89" height="60.9449"/>
+			<path d="M10.49 595.28 L94.39 595.28 A10.488 10.488 -180 0 0 104.88 584.79 L104.88 544.82 A10.488 10.488 -180 0 0 94.39
+						 534.33 L10.49 534.33 A10.488 10.488 -180 0 0 -0 544.82 L0 584.79 A10.488 10.488 -180 0 0 10.49 595.28 Z"
+					class="st11"/>
+			<text x="4" y="547.33" class="st12" v:langID="3084"><v:paragraph/><v:tabList/>- Bamboo<v:newlineChar/><tspan x="4"
+						dy="1.2em" class="st5">-</tspan> Hudson<v:newlineChar/><tspan x="4" dy="1.2em" class="st5">-</tspan> Jenkins<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st5">-</tspan> TeamCity</text>		</g>
+		<g id="shape16-48" v:mID="16" v:groupContext="shape" transform="translate(525.827,-187.087)">
+			<title>Rectangle à coins arrondis.16</title>
+			<desc>- Ant - Gradle - Maven</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="52.4409" cy="564.803" width="104.89" height="60.9449"/>
+			<path d="M10.49 595.28 L94.39 595.28 A10.488 10.488 -180 0 0 104.88 584.79 L104.88 544.82 A10.488 10.488 -180 0 0 94.39
+						 534.33 L10.49 534.33 A10.488 10.488 -180 0 0 -0 544.82 L0 584.79 A10.488 10.488 -180 0 0 10.49 595.28 Z"
+					class="st11"/>
+			<text x="4" y="547.33" class="st12" v:langID="3084"><v:paragraph/><v:tabList/>- Ant<v:newlineChar/><tspan x="4"
+						dy="1.2em" class="st5">-</tspan> Gradle<v:newlineChar/><tspan x="4" dy="1.2em" class="st5">-</tspan> Maven</text>		</g>
+		<g id="shape17-53" v:mID="17" v:groupContext="shape" transform="translate(367.087,-147.402)">
+			<title>Rectangle à coins arrondis.17</title>
+			<desc>- Artifactory - Nexus - ...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="52.4409" cy="564.803" width="104.89" height="60.9449"/>
+			<path d="M10.49 595.28 L94.39 595.28 A10.488 10.488 -180 0 0 104.88 584.79 L104.88 544.82 A10.488 10.488 -180 0 0 94.39
+						 534.33 L10.49 534.33 A10.488 10.488 -180 0 0 -0 544.82 L0 584.79 A10.488 10.488 -180 0 0 10.49 595.28 Z"
+					class="st11"/>
+			<text x="4" y="547.33" class="st12" v:langID="3084"><v:paragraph/><v:tabList/>- Artifactory<v:newlineChar/><tspan x="4"
+						dy="1.2em" class="st5">-</tspan> Nexus<v:newlineChar/><tspan x="4" dy="1.2em" class="st5">-</tspan> ...</text>		</g>
+		<g id="shape18-58" v:mID="18" v:groupContext="shape" transform="translate(215.433,-218.976)">
+			<title>Rectangle à coins arrondis.18</title>
+			<desc>- Capistrano - Chef - Puppet</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="52.4409" cy="564.803" width="104.89" height="60.9449"/>
+			<path d="M10.49 595.28 L94.39 595.28 A10.488 10.488 -180 0 0 104.88 584.79 L104.88 544.82 A10.488 10.488 -180 0 0 94.39
+						 534.33 L10.49 534.33 A10.488 10.488 -180 0 0 -0 544.82 L0 584.79 A10.488 10.488 -180 0 0 10.49 595.28 Z"
+					class="st11"/>
+			<text x="4" y="547.33" class="st12" v:langID="3084"><v:paragraph/><v:tabList/>- Capistrano<v:lf/><tspan x="4"
+						dy="1.2em" class="st5">-</tspan> Chef<v:newlineChar/><tspan x="4" dy="1.2em" class="st5">-</tspan> Puppet</text>		</g>
+		<g id="shape19-63" v:mID="19" v:groupContext="shape" transform="translate(214.016,-355.748)">
+			<title>Rectangle à coins arrondis.19</title>
+			<desc>- Apache Tomcat - JBoss - Jetty</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14566929133858):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="52.4409" cy="564.803" width="104.89" height="60.9449"/>
+			<path d="M10.49 595.28 L94.39 595.28 A10.488 10.488 -180 0 0 104.88 584.79 L104.88 544.82 A10.488 10.488 -180 0 0 94.39
+						 534.33 L10.49 534.33 A10.488 10.488 -180 0 0 -0 544.82 L0 584.79 A10.488 10.488 -180 0 0 10.49 595.28 Z"
+					class="st11"/>
+			<text x="4" y="547.33" class="st12" v:langID="3084"><v:paragraph/><v:tabList/>- Apache Tomcat<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st5">-</tspan> JBoss<v:newlineChar/><tspan x="4" dy="1.2em" class="st5">-</tspan> Jetty</text>		</g>
+		<g id="shape20-68" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(412.036,-119.055)">
+			<title>Lien dynamique</title>
+			<path d="M6.68 585.08 L6.68 584.72 L6.68 584.65 L7.49 584.65 L7.49 580.32" class="st13"/>
+		</g>
+		<g id="shape21-77" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(419.528,-229.606)">
+			<title>Lien dynamique.21</title>
+			<path d="M0 595.28 L-44.11 349.92" class="st15"/>
+		</g>
+	</g>
+</svg>
